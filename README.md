@@ -1,0 +1,2 @@
+# blast-faucet
+sepolia - blast
