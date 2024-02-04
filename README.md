@@ -2,6 +2,10 @@
 
 sepolia faucet pk910 - https://sepolia-faucet.pk910.de/
 
+or here if there's 0.001 eth in the mainnet.
+https://access.rockx.com/faucet-sepolia
+https://dashboard.tatum.io/faucets
+
 faucet on FUEL sepolia eth - https://faucet-beta-4.fuel.network/
 bridge from FUEL to SEPOLIA - https://alpha.fuel.network/bridge/transactions
 
