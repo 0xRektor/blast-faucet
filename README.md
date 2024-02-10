@@ -1,4 +1,4 @@
-# blast-faucet
+# blast-faucet + sepolia
 
 sepolia faucet pk910 - https://sepolia-faucet.pk910.de/
 
